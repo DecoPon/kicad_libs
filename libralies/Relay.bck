@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G5V-2
+D Omron ドライ接点リレー
+K Relay
+F /Users/ikko/OneDrive/200_CAD/KiCAD/kicad_libs/Manuals/g5v_2.pdf
+$ENDCMP
+#
+#End Doc Library

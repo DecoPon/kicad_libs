@@ -1,8 +1,6 @@
 kicad_personal_lib
 ===
 
-This Repository is KiCAD footprint library.
-
 ## library
 * Akiduki.pretty : 秋月電子取扱い製品
   * 57D-0803
