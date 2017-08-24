@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TB401-1-2-E
+D Siganl wire input/output block 2pin type
+K terminal block
+$ENDCMP
+#
+$CMP TB401-1-8-E
+D Signal wire input/output block 8pin type
+K terminal block
+$ENDCMP
+#
 #End Doc Library
