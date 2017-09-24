@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIL_40P
+D MIL connecter header
+K mil
+$ENDCMP
+#
+#End Doc Library

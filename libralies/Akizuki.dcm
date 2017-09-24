@@ -1,5 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AE-DCJACK-DIPKIT-2.1mm-10A
+D 秋月電子販売のDCジャックDIP化基盤
+K DIP
+$ENDCMP
+#
+$CMP C-00173_1x14
+D Pin socket 1x14 single
+K pin socket
+$ENDCMP
+#
+$CMP C-03077_2x20
+D Pin socket 2x20 dual type
+$ENDCMP
+#
 $CMP TB401-1-2-E
 D Siganl wire input/output block 2pin type
 K terminal block
